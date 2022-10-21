@@ -1,5 +1,5 @@
-# CloudComputing DeepRacer
-## Đề tài cuối kỳ AWS DeepRacer
+# CloudComputing
+## Đề tài: AWS DeepRacer
 ### Thành Viên
 - Bùi Mạc Tùng Lâm - 18110139
 - Nguyễn Trần Thảo Quyên - 20110042
